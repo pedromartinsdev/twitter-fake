@@ -9,6 +9,6 @@ O objetivo de copiar aplicativos e páginas é praticar a mais diversas habilida
 ## Vizualização
 
 Vizualize esse reporitório com o Github pages:
-
+https://pedromartinscap.github.io/twitter-fake/
 
 OBS.: Os ícones utilizados na página foram baixados em [Flaticon.com](www.flaticon.com).
