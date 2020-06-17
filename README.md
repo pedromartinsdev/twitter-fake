@@ -2,7 +2,7 @@
 
 ## :blue_book: Projeto
 
-O objetivo de copiar aplicativos e páginas é praticar a mais diversas habilidades e entender melhor o funcionamento aplicabilidade prática das ferramentas.
+O objetivo de copiar aplicativos e páginas é praticar a mais diversas habilidades e entender melhor o funcionamento e a aplicabilidade prática das ferramentas.
 
 <a align="center">
 
@@ -24,7 +24,7 @@ Basta Acessar esse link:
 [Twitter Fake](https://pedromartinscap.github.io/twitter-fake/)
 
 
-## Créditos
+## :clap: Créditos
 
 Os ícones utilizados na página foram baixados em [Flaticon.com](www.flaticon.com).
 
