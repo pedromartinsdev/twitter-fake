@@ -1,18 +1,5 @@
 # Twitter Fake
 
-Página clonada no meu aprendizado de CSS, focando no uso de flexbox...
-
-## Objetivo
-
-
-## Vizualização
-
-Vizualize esse reporitório com o Github pages:
-https://pedromartinscap.github.io/twitter-fake/
-
-
-# Twitter Fake
-
 ## :blue_book: Projeto
 
 O objetivo de copiar aplicativos e páginas é praticar a mais diversas habilidades e entender melhor o funcionamento aplicabilidade prática das ferramentas.
