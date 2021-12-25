@@ -21,7 +21,7 @@ Foram usadas as seguintes tcnologias neste projeto:
 
 Basta Acessar esse link:
 
-[Twitter Fake](https://pedromartinscap.github.io/twitter-fake/)
+[Twitter Fake](https://pedromartinsdev.github.io/twitter-fake/)
 
 
 ## :clap: Créditos
